@@ -1,2 +1,2 @@
-# cursoc-c-
+# cursoc-c++
 Curso de C e C++
